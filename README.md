@@ -1,3 +1,6 @@
+Of course! Here's the corrected and Windows-optimized `README.md` with everything fully inside the code block:
+
+```markdown
 # LegalLens 🕵️‍♂️📜
 
 **LegalLens** is an AI-powered legal assistant that helps users detect risky clauses in contracts and understand legal language in simple terms. It’s designed to democratize legal understanding using cutting-edge AI and blockchain privacy.
@@ -28,22 +31,85 @@
 
 ---
 
-## 📦 Installation
+## 📦 Installation (Windows)
 
-1. Clone this repo:
+1. **Clone this repo**
    ```bash
    git clone https://github.com/yourusername/LegalLens.git
    cd LegalLens
+   ```
 
-2. Create a virtual environment:
+2. **Create a virtual environment**
+   ```bash
    python -m venv venv
-   source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+   venv\Scripts\activate
+   ```
 
-3. Install dependencies:
+3. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
+   ```
 
-4. Copy the .env.example file and fill in your keys:
-   cp .env.example .env  # On Windows, manually duplicate and rename
-   
-6. Run the app:
+4. **Configure environment variables**
+
+   - Copy `.env.example` to `.env`
+   - Fill in your actual API keys
+
+   ```bash
+   copy .env.example .env
+   ```
+
+5. **Run the server**
+   ```bash
    uvicorn main:app --reload
+   ```
+
+---
+
+## 🔐 Environment Variables (`.env.example`)
+
+```env
+GEMINI_API_KEY=your-google-gemini-api-key
+MONGODB_URI=your-mongodb-connection-uri
+AUTH0_DOMAIN=your-auth0-domain
+AUTH0_CLIENT_ID=your-auth0-client-id
+AUTH0_CLIENT_SECRET=your-auth0-client-secret
+```
+
+- Do **not** share your `.env` file or upload it to GitHub.
+
+---
+
+## 📄 Example Use Case
+
+> "John, a freelancer, uploads a 10-page service agreement. LegalLens flags a hidden auto-renewal and an unfair liability clause, explains both in plain English, and suggests edits. The contract is secured via blockchain, ensuring legal verifiability without exposing private terms."
+
+---
+
+## 🌍 Roadmap
+
+- 📱 Mobile contract scanner
+- 🤝 Live AI negotiation assistant
+- 🔌 Enterprise API access
+- 🧠 Offline LLM fallback mode
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Fork the repo, create a feature branch, and open a pull request.
+
+---
+
+## 💡 Inspiration
+
+> 83% of people sign contracts without fully understanding them.  
+> $150 billion lost annually due to predatory clauses.
+
+LegalLens empowers users to understand legal documents — one clause at a time.
+
+---
+
+## 👨‍💻 Author
+
+Built at GNEC Hackathon 2025 by [Kartikey Narain Prajapati]([https://github.com/yourusername](https://github.com/kartikeyp011))
