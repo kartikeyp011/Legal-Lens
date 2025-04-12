@@ -1,6 +1,4 @@
-Of course! Here's the corrected and Windows-optimized `README.md` with everything fully inside the code block:
 
-```markdown
 # LegalLens 🕵️‍♂️📜
 
 **LegalLens** is an AI-powered legal assistant that helps users detect risky clauses in contracts and understand legal language in simple terms. It’s designed to democratize legal understanding using cutting-edge AI and blockchain privacy.
