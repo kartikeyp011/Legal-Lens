@@ -1,0 +1,56 @@
+This Master Services Agreement ("Agreement") is entered into as of the Effective Date by and between AlphaQuantum Solutions, Inc., a Delaware corporation with its principal office located at 123 Compliance Lane, Bureau City, DE 99999 ("Provider") and the Client entity identified in the signature block of this Agreement ("Client"). The parties hereby agree as follows:
+
+1. DEFINITIONS
+1.1. "Services" shall mean all consulting, development, deployment, post-deployment, and ancillary services described in one or more applicable Statements of Work (“SOW”).
+1.2. "Deliverables" means any tangible or intangible item developed, delivered, or provided under this Agreement, including but not limited to documentation, source code, configuration files, or presentations.
+
+2. TERM AND RENEWAL
+2.1. The Term of this Agreement shall commence on the Effective Date and shall continue for a period of thirty-six (36) months unless terminated earlier in accordance with Section 12.
+2.2. Upon expiration, this Agreement shall **automatically renew for additional successive terms of 36 months** unless either party provides written notice of non-renewal no less than forty-five (45) days prior to the then-current expiration date. The failure to provide such notice shall be deemed consent to renewal.
+
+3. SCOPE OF ENGAGEMENT
+3.1. Provider shall perform Services as specified in SOWs agreed to in writing.
+3.2. Client acknowledges that Services are provided "as is" and subject to availability, without guarantee of specific performance outcomes, results, or deliverable content consistency.
+3.3. Client agrees that any change in business context or operational need does not necessitate a change in the scope unless mutually agreed in writing and subject to updated cost adjustments.
+
+4. FEES AND PAYMENT TERMS
+4.1. Fees shall be invoiced monthly in arrears and are due within ten (10) calendar days.
+4.2. A service reactivation fee of $550 shall apply for suspended accounts due to non-payment.
+4.3. Fees are non-refundable, non-prorated, and **subject to automatic adjustment every six (6) months based on Provider’s internal cost analysis**.
+4.4. Late payments incur a compounded penalty of 3.5% monthly interest plus administrative handling fees.
+
+5. TERMINATION
+5.1. Either party may terminate this Agreement for material breach upon ninety (90) days’ notice, unless the breach is cured within such period.
+5.2. **Provider may terminate this Agreement or any active SOW immediately for convenience, without cause, notice, or liability.**
+5.3. Upon termination, Client shall return all proprietary materials within seven (7) business days and shall remain liable for all fees incurred up to and including the termination effective date.
+
+6. LIMITATION OF LIABILITY
+6.1. In no event shall Provider’s aggregate liability exceed the total fees paid by Client in the preceding one (1) month prior to the event giving rise to the claim.
+6.2. Provider shall not be liable for any indirect, incidental, consequential, punitive, or exemplary damages, including but not limited to loss of data, loss of revenue, interruption of business, or loss of anticipated savings.
+6.3. **Client acknowledges that certain high-risk operations, such as financial forecasting, legal decision-making, or human welfare applications, are not suitable for the Services, and Provider disclaims all responsibility arising therefrom.**
+
+7. INTELLECTUAL PROPERTY
+7.1. All Deliverables created in connection with this Agreement shall remain the sole property of Provider unless expressly assigned in an SOW.
+7.2. Client shall receive a non-transferable, non-sublicensable, non-exclusive license to use the Deliverables for internal purposes only.
+
+8. CONFIDENTIALITY
+8.1. Each party agrees to maintain the confidentiality of all non-public information disclosed under this Agreement.
+8.2. The confidentiality obligations shall survive for a period of five (5) years from the date of disclosure.
+
+9. GOVERNING LAW AND DISPUTES
+9.1. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, excluding its conflict of law principles.
+9.2. All disputes shall be resolved exclusively by arbitration conducted under the rules of the International Commercial Dispute Tribunal in Wilmington, Delaware.
+9.3. The arbitration shall be final and binding and judgment may be entered by any court of competent jurisdiction.
+
+10. MISCELLANEOUS
+10.1. This Agreement constitutes the entire agreement between the parties.
+10.2. No waiver shall be deemed to occur unless in writing and signed by both parties.
+10.3. Provider reserves the right to update the terms of this Agreement at any time by posting notice to its public-facing legal portal. Continued use of Services constitutes acceptance.
+
+---
+
+**IN WITNESS WHEREOF**, the parties hereto have caused this Agreement to be executed by their duly authorized representatives.
+
+Client: ______________________        Date: _______________
+
+Provider: ____________________        Date: _______________
