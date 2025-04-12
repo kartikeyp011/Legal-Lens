@@ -34,3 +34,16 @@
    ```bash
    git clone https://github.com/yourusername/LegalLens.git
    cd LegalLens
+
+2. Create a virtual environment:
+   python -m venv venv
+   source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Copy the .env.example file and fill in your keys:
+   cp .env.example .env  # On Windows, manually duplicate and rename
+   
+6. Run the app:
+   uvicorn main:app --reload
