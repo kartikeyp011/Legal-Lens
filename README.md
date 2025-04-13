@@ -12,7 +12,6 @@
 - ⚖️ **Deep Clause Analysis** – Detects high-risk terms (e.g., unfair termination, auto-renewals, excessive liability)
 - 💬 **Plain-Language Summaries** – Explains complex legal jargon in simple terms (20+ languages supported)
 - 📂 **Multi-format Uploads** – Upload PDFs, DOCX, or images of contracts
-- 🧠 **Trained AI (Gemini)** – Custom-tuned to identify 50+ contract red flags
 - 💸 **Freemium Model** – Free basic analysis, premium features for advanced legal support
 
 ---
