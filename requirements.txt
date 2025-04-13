@@ -6,3 +6,6 @@ pymongo
 python-dotenv
 jinja2
 python-multipart
+markdown
+python-jose
+auth0-python
